@@ -1,0 +1,10 @@
+Flask
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+alembic
+python-dotenv
+httpx
+pytest
+pytest-asyncio
